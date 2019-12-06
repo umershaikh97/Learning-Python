@@ -24,7 +24,7 @@ fruits.remove('Grapes')
 fruits.insert(2, 'Strawberries')
 
 # Change value
-fruits[0] = 'Blueberries'
+fruits[0] = 25  # Each list can have elements with different datatypes
 
 # Remove with pop
 fruits.pop(2)
